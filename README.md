@@ -1,5 +1,5 @@
 # Overview
-This repository build a simple Hello container based on this [repository](https://github.com/GoogleCloudPlatform/cloud-run-hello) but without the HTML template.
+This repository build a simple Hello container based on this [repository](https://github.com/GoogleCloudPlatform/cloud-run-hello) but without the HTML template. It's used in this [Medium article](https://medium.com/google-cloud/knative-and-cloud-run-portability-in-action-1a655c914318)
 
 The purpose is to return a simple string with all the important information. It's easier to handle with `curl`
 
